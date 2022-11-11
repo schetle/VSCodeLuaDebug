@@ -24,6 +24,7 @@
     },
     "devDependencies": {},
     "contributes": {
+        "breakpoints": [{ "language": "lua" }],
         "debuggers": [
             {
                 "type": "lua",
